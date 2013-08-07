@@ -1,6 +1,6 @@
-# PhoneGap Build Starter Application
+# ClimateMaster¨ Commercial Unit Selection App
 
-> A Hello World application to get started with PhoneGap Build.
+> ClimateMaster¨, Inc. Commercial Unit Selection App
 
 ## Usage
 
@@ -16,7 +16,7 @@
 
 Create a new app with the following repository:
 
-    https://github.com/phonegap/phonegap-start.git
+    https://github.com/spursley/Res_Dealer_Sales_App.git
 
 ## Updating the Application
 
