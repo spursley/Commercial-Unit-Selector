@@ -36,7 +36,7 @@ Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 
 ### 3. Update PhoneGap Version
 
-    <preference name="phonegap-version" value="x.x.x" />
+    <preference name="phonegap-version" value="2.9.0" />
 
 ### 4. Commit
 
