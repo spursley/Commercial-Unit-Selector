@@ -18,18 +18,6 @@ Create a new app with the following repository:
 
     https://github.com/spursley/Commercial-Unit-Selector
 
-## Updating the Application
-
-The application is based on the [Apache Cordova Hello World][cordova-app] app.
-
-### 1. Update the Source
-
-    cp cordova-app-hello-world/www www/
-
-__Do not replace `www/config.xml`.__
-
-__Do not replace `www/img/logo.png`.__
-
 ### 2. Update index.html
 
 Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
