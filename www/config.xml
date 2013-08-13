@@ -6,14 +6,14 @@
         id        = "com.climatemaster.comunitselector"
         version   = "1.0.0">
 
-    <name>ClimateMaster Commercial Unit Selector</name>
+    <name>Commercial</name>
 
     <description>
         ClimateMaster Commercial Unit Selector
     </description>
 
     <author href="http://climatemaster.com" email="support@climatemaster.com">
-        PhoneGap Team
+        1
     </author>
 
     <!--
